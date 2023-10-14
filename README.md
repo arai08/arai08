@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rehaan<br>👀 I’m interested in Software Development <br>🌱 I’m currently learning React<br>📫 How to reach me -> LinkedIn 
+👋 Hi, I’m Rehaan<br>👀 I’m interested in Software Development <br>🌱 I’m currently learning React<br>📫 How to reach me <a href="https://linkedin.com/in/rehaan-arai">LinkedIn</a>
 
 
 ## 🌐 Socials:
